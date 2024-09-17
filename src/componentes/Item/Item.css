@@ -1,11 +1,11 @@
 .cardProducto {
-    background-color: #F2F4F5;
+    background-color: #5eeb60;
     border-radius: 10px;
     width: 20rem;
-    margin: 1rem;
-    padding: 1rem;
+    margin: 3rem;
+    padding: 2rem;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     align-items: center;
 }
 
@@ -15,8 +15,8 @@
 }
 
 .cardProducto button {
-    background-color: #373d20;
-    color: #fafafa;
+    background-color: #ec0808;
+    color: #b81111;
     font-size: 1.2rem;
     border-radius: 10px;
     border: none;

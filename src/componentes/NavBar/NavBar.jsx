@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <header>
       <Link to="/">
-        <img  className='logoMarolio' src={"./img/logo.png"} alt="Logo Marolio" />
+        <img  className="logoStore" src={"./img/Preview.png"} alt="LogoStoreFuture" />
       </Link>
 
       <ul class="nav justify-content-center">
@@ -15,10 +15,10 @@ const NavBar = () => {
     <a class="nav-link active" aria-current="page" href="/">PlayStation</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/categoria/almacen">Xbox</a>
+    <a class="nav-link" href="/categoria/Xbox">Xbox</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/categoria/lacteos">Nintendo</a>
+    <a class="nav-link" href="/categoria/Nintendo">Nintendo</a>
   </li>
   
 </ul>
