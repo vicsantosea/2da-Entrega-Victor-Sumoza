@@ -1,8 +1,8 @@
 .contenedorItem{
     text-align: center;
-    border: 10px solid rgb(18, 9, 140);
+    border: 10px solid rgb(8, 8, 8);
     margin: 4rem;
-    background-color: rgb(32, 247, 82);
+    background: radial-gradient(circle, rgb(0, 255, 4.2), blue);
     font-weight:bold;
     font-size: 20px;
 }

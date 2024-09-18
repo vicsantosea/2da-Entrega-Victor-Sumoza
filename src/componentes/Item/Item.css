@@ -1,5 +1,5 @@
 .cardProducto {
-    background-color: #5eeb60;
+    background: rgba(42, 233, 17, 0.8); 
     border-radius: 10px;
     width: 20rem;
     margin: 3rem;

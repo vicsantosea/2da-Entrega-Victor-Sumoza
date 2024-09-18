@@ -2,8 +2,10 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border-bottom: 15px solid rgb(34, 7, 184);
-    background-color: hsla(117, 84%, 38%, 0.86);}
+    border-bottom: 15px solid rgb(8, 8, 8);
+    background: radial-gradient(circle, rgb(0, 255, 4.2), blue);
+
+}
 
 .logoStore {
     width: 150px;
